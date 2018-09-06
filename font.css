@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Kanit Regular'), local('Kanit-Regular'), url(fonts/Kanit/Kanit-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Mitr Regular'), local('Mitr-Regular'), url(fonts/Mitr/Mitr-Regular.ttf) format('truetype');
+}
